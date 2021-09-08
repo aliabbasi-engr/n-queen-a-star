@@ -1,1 +1,1 @@
-## n-Queen (modified version) - A* Algorithm
+## n-Queen Problem (modified version) - A* Algorithm
