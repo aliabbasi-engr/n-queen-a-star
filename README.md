@@ -1,1 +1,1 @@
-# n-queen-a-star
+## n-Queen (modified version) - A* Algorithm
