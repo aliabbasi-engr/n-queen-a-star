@@ -10,7 +10,8 @@ The default heuristic function only counts the number of threats on the chessboa
 - Bishop-Queen
 - Queen-Bishop
 
-By using this new proposed heuristic function, the memory and time efficiency of the program was improved significantly. In addition, there are some cases that the default function takes a long time to find the solution. Some of this almost-impossible test cases can be found in the "Test Cases" folder
-The figure below compares the efficiency of the proposed function with the traditional one.
+By using this new proposed heuristic function, the memory and time efficiency of the program was improved significantly. In addition, there are some cases that the default function takes a long time to find the solution. Some of this almost-impossible test cases can be found in the "Test Cases" folder.
+
+The figure below compares the efficiency of the proposed function with the traditional one. MATLAB is used to run the application with 100 test cases and plot the number of steps needed to find the solution, elapsed time, and the number of expanded node.
 
 ![Heuristic Comparison](heuristic-comparison.jpg)
